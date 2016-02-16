@@ -9,7 +9,7 @@ Import the element:
 `<link rel="import" href="components/nodecg-message-button/nodecg-message-button.html">`
 
 Use the element:
-<nodecg-message-button class="danger" raised message="show">Show</nodecg-message-button>
+`<nodecg-message-button class="danger" raised message="show">Show</nodecg-message-button>`
 
 The above will send a message "show" to the bundle.
 
