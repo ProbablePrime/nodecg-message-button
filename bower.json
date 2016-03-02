@@ -1,6 +1,6 @@
 {
   "name": "nodecg-message-button",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A paper-button which sends a message to the bundle it is within",
   "authors": [
     "ProbablePrime"
